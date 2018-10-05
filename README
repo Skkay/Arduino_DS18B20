@@ -1,1 +1,4 @@
 Code Arduino pour faire fonctionner un capteur OneWire DS18B20
+
+La librairie OneWire est nécessaire :
+https://github.com/PaulStoffregen/OneWire
